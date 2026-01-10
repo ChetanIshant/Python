@@ -19,9 +19,9 @@ Make sure Python is installed on your system.
 Run any file using:
 python filename.py
 
-# This repository is not about perfection, but about consistent learning.
+This repository is not about perfection, but about consistent learning.
 
-# Suggestions and feedback are always welcome.
+Suggestions and feedback are always welcome.
 
 # Connect With Me
 LinkedIN : linkedin.com/in/chetan-urf-ishant-74a323271
