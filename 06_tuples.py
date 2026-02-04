@@ -10,4 +10,8 @@ print(my_tuple2)
 no=a.count(2) #to count the number of occurrences of an item in the tuple
 print(no)
 index=a.index(3) #to find the index of an item in the tuple
+
 print(index)
+
+
+#remember tuples in python are immutable and they are started using ();
