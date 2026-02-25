@@ -15,3 +15,11 @@ print(index)
 
 
 #remember tuples in python are immutable and they are started using ();
+
+#more about tuples:
+#A tuple in Python is an ordered, immutable collection of elements. 
+#Unlike lists, tuples cannot be modified after creation, which makes them faster and more memory-efficient. 
+#They are defined using parentheses, for example: t = (1, 2, 3). 
+#Tuples can store different data types such as integers, strings, or even other tuples. 
+#They support indexing, slicing, and iteration. 
+#Because of their immutability, tuples are commonly used to store fixed data like coordinates, configuration settings, and function return values.
