@@ -16,3 +16,6 @@ print("Multiplication is:",a*b);
 #It follows a multi-paradigm approach, supporting object-oriented, procedural, and functional programming. 
 #Python uses automatic memory management and a powerful standard library, reducing development time. 
 #Its interpreter executes bytecode via the Python Virtual Machine (PVM). 
+
+#Widely used in data science, web development, automation, and AI, Python integrates seamlessly with C/C++ extensions. 
+#Frameworks like Django and libraries like NumPy and TensorFlow enhance its scalability and performance in production-grade systems.
