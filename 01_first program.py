@@ -12,3 +12,7 @@ print("Sum is:",a+b);
 print("Multiplication is:",a*b);
 
 
+#Python is a high-level, interpreted programming language known for its clean syntax and dynamic typing. 
+#It follows a multi-paradigm approach, supporting object-oriented, procedural, and functional programming. 
+#Python uses automatic memory management and a powerful standard library, reducing development time. 
+#Its interpreter executes bytecode via the Python Virtual Machine (PVM). 
